@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  abc:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-03T16:42:32.345212637+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 492b97d53d164df2757d1aa1263d2978dd5e651ba5e9d6ba50afbcee3aa68558
+    name: abc
+    type: application
+    urls:
+    - https://xiangys0134.github.io/helm-charts/abc-0.1.0.tgz
+    version: 0.1.0
   ous:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-03T16:35:40.30802853+08:00"
+    created: "2022-09-03T16:42:32.346096942+08:00"
     description: A Helm chart for Kubernetes
     digest: b34582803134711d92355aa3ee780a37330134a44cd5ea05516892fad8fe6a92
     name: ous
@@ -11,4 +22,4 @@ entries:
     urls:
     - https://xiangys0134.github.io/helm-charts/ous-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-03T16:35:40.306965384+08:00"
+generated: "2022-09-03T16:42:32.344185062+08:00"
