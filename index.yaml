@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2022-09-02T19:13:42.912841827+08:00"
+entries:
+  ous:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-03T16:35:40.30802853+08:00"
+    description: A Helm chart for Kubernetes
+    digest: b34582803134711d92355aa3ee780a37330134a44cd5ea05516892fad8fe6a92
+    name: ous
+    type: application
+    urls:
+    - https://xiangys0134.github.io/helm-charts/ous-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-03T16:35:40.306965384+08:00"
